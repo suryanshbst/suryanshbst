@@ -1,158 +1,130 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=220&section=header&text=SURYANSH&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20DSA%20%26%20CP%20Enthusiast&descAlignY=55&animation=twinkling" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+%26+Competitive+Programming+Enthusiast;Building+Scalable+Web+Systems" />
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Architecture+Focused;DSA+%26+Competitive+Programming;Clean+Code+%7C+Performance+%7C+Scalability" />
 </div>
 
 ---
 
-## 👋 Hey, I'm **Suryansh**
-### 🚀 Full Stack Developer | 💻 DSA & CP Explorer | 🌐 Web Systems Architect (in progress)
+## WHO AM I?
 
-I’m a **Computer Science undergraduate at RGIPT**, deeply focused on **modern web development**, **clean backend architecture**, and **algorithmic problem solving**.
+```txt
+CSE Undergraduate @ RGIPT
+Full Stack Web Developer
+Backend-first mindset
+DSA & Competitive Programming focused
+```
 
-I enjoy designing **real-world, scalable applications** where performance, maintainability, and developer experience matter.
+I build production-grade web systems with clean architecture, optimized APIs, and scalable backend logic.  
+My primary focus is Web Development + DSA + Competitive Programming.
 
----
-
-## 🧠 What I Actually Do
-
-- ⚙️ Build **full-stack web applications** using **MERN**
-- 🧩 Design **RESTful APIs** with clean architecture
-- 📈 Optimize **time & space complexity** using DSA
-- 🧪 Write modular, readable, and scalable code
-- 🔁 Use Git & GitHub daily for collaboration
-- 🚀 Deploy apps using modern cloud workflows
+<img src="https://user-images.githubusercontent.com/74038190/212897772-7e6f8a13-50b0-4a3f-9c68-98e7c4c5f7e2.gif" width="100%" />
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## TECH STACK
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
-</p>
+### Frontend Engineering
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs&theme=dark" />
+</div>
 
-- Responsive UI with **HTML5, CSS3**
-- Modern styling using **Tailwind CSS**
-- Component-driven development with **React**
-- SEO-friendly apps using **Next.js**
-
----
-
-### 🧠 Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-- RESTful APIs with **Node.js & Express**
-- Secure auth with **JWT**
-- Data modeling & aggregation using **MongoDB**
-- Scalable backend patterns
+- Semantic HTML5 & modern CSS3
+- Tailwind CSS utility-first UI
+- Component-driven React architecture
+- SEO-optimized rendering with Next.js
 
 ---
 
-### ⚙️ DevOps & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
+### Backend & APIs
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</div>
 
-- Version control with **Git & GitHub**
-- API testing using **Postman**
-- Environment consistency via **Docker**
-- CI-friendly development practices
-
----
-
-### 🧑‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-</p>
-
-- **C++** → Competitive Programming
-- **Java** → DSA & OOP
-- **JavaScript** → Web Development
-- **Python** → Scripting & utilities
+- RESTful API design
+- JWT authentication & authorization
+- MongoDB schema design & aggregations
+- Modular backend architecture
 
 ---
 
-## 🧠 Data Structures & Algorithms
+### DevOps & Workflow
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
+</div>
 
-I regularly practice **DSA and CP**, focusing on:
+- Git & GitHub collaboration
+- Dockerized development environments
+- API testing with Postman
+- Deployment-ready workflows
+
+---
+
+### Programming Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212897751-3e4f8f2f-1a18-49d3-bab7-4fd74d8aa9ad.gif" width="100%" />
+
+---
+
+## DSA & COMPETITIVE PROGRAMMING
 
 - Arrays, Strings, Hashing
-- Linked Lists, Stacks, Queues
-- Trees & Graphs
-- Recursion & Dynamic Programming
-- Binary Search & Greedy Techniques
+- Trees, Graphs, Recursion
+- Dynamic Programming
+- Binary Search & Greedy
+- Time & Space Complexity Optimization
 
-📌 Platforms:
-- **LeetCode**
-- **Codeforces**
-
----
-
-## 🚀 Featured Projects
-
-### 🏫 **AlumConnect (SIH 2025)**
-**Full Stack Alumni Management Platform**
-
-- Stack: **MongoDB · Express · React · Node**
-- Role: **Full Stack Developer**
-- Features:
-  - Secure authentication
-  - Alumni-student interaction
-  - Scalable database design
+Languages: C++, Java  
+Platforms: LeetCode, Codeforces
 
 ---
 
-### 🛒 **Scalable E-Commerce Backend**
-**Backend Architecture Project**
+## PROJECTS
 
-- Stack: **Node.js · Express · MongoDB · Docker**
-- Highlights:
-  - JWT-based authentication
-  - Modular REST APIs
-  - Production-ready backend design
+### AlumConnect (SIH 2025)
+- MERN stack alumni management platform
+- Secure authentication system
+- Scalable database architecture
+
+### Scalable E-Commerce Backend
+- Node.js + Express backend
+- JWT-based authentication
+- MongoDB optimized queries
+- Dockerized setup
+
+<img src="https://user-images.githubusercontent.com/74038190/212897743-4e76b5dd-9b6c-4ef0-9b4b-04f97d98c8fd.gif" width="100%" />
 
 ---
 
-## 📊 GitHub Stats
+## GITHUB ANALYTICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshbst&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshbst&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=suryanshbst&show_icons=true&theme=transparent&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshbst&layout=compact&theme=transparent&title_color=22D3EE&text_color=E5E7EB&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshbst&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suryanshbst&theme=transparent&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&hide_border=true" />
 </div>
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## CURRENTLY LEARNING
 
-- Advanced **backend architecture**
-- **System design basics**
-- Optimizing React performance
+- Advanced backend architecture
+- System design fundamentals
+- High-performance React
 - Competitive programming consistency
-- Clean code & scalable patterns
 
----
-
-## 🤝 Let’s Connect
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=160&section=footer&animation=twinkling" />
+</div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suryansh-75247a31a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:24cs3055@rgipt.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<i>Design systems. Engineer performance. Write code that scales.</i>
 </p>
-
----
-
-<div align="center">
-<i>“Code with clarity. Build with purpose. Scale with confidence.”</i>
-</div>

@@ -62,7 +62,7 @@ Orchestrated the Robotics Olympiad for our college tech fest, designing quiz mod
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryanshbst&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshbst&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
 </div>
 
 ---
@@ -70,10 +70,11 @@ Orchestrated the Robotics Olympiad for our college tech fest, designing quiz mod
 ### 🤝 Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Suryansh .
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:24cs3055@rgipt.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>

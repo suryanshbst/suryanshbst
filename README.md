@@ -1,3 +1,7 @@
+<img src="https://YOUR_WORKER_URL.workers.dev/track?source=profile" width="1" height="1" style="display:none;" alt="" />
+
+[![Profile Views](https://tracker.24cs3055.workers.dev/badge)](https://tracker.24cs3055.workers.dev/dashboard)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+%26+Competitive+Programming+Enthusiast;Building+Scalable+Web+Systems" />

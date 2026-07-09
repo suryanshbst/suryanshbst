@@ -1,4 +1,4 @@
-<img src="https://YOUR_WORKER_URL.workers.dev/track?source=profile" width="1" height="1" style="display:none;" alt="" />
+<img src="https://tracker.24cs3055.workers.dev/track?source=profile" width="1" height="1" style="display:none;" alt="" />
 
 [![Profile Views](https://tracker.24cs3055.workers.dev/badge)](https://tracker.24cs3055.workers.dev/dashboard)
 
